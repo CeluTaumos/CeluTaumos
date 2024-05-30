@@ -46,7 +46,6 @@
 - 🎨 Frameworks:
 
 ![Spring Framework](https://img.shields.io/badge/Spring_Framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![W3Schools](https://img.shields.io/badge/W3Schools-gray?style=for-the-badge&logo=w3schools&logoColor=white)
 ![jQuary](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -68,6 +67,7 @@
     ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
     ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
   ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+  ![W3Schools](https://img.shields.io/badge/W3Schools-gray?style=for-the-badge&logo=w3schools&logoColor=white)
 
     
 </p>
@@ -77,7 +77,8 @@
   <div align="center">
   <a href="https://www.linkedin.com/in/celena-moscovich-2a42a2251/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
   <a href="https://www.instagram.com/celu_taumos/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
-     <p>please,give me an opportunity( ´･･)ﾉ(._.`)</p
+     <p>please,give me an opportunity( ´･･)ﾉ(._.`)</p>
+     <p>(oﾟvﾟ)ノcelena.ark@gmail.com</p>
    </div>
    <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
