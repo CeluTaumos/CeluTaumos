@@ -4,7 +4,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">(｡･∀･)ﾉﾞ Hi, I’m <a href="https://www.behance.net/celerinsugargl" >@CeluTaumos</a></h1></summary>
+    <summary><h1 style="display: inline-block">(｡･∀･)ﾉﾞ Hi, I’m @CeluTaumos</h1></summary>
   </ul>
 </div>
 
