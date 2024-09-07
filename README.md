@@ -2,14 +2,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">(｡･∀･)ﾉﾞ Hi, I’m @CeluTaumos</h1></summary>
-  </ul>
-</div>
+  <details align="center"> 
+  <summary><h1 style="display: inline-block"><span style="color: #ff69b4;">(｡･∀･)ﾉﾞ Hi, I’m @CeluTaumos</span></h1></summary>
+  
 
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><p style="display: inline-block">If God created the commands of the universe...I want to understand that logic, from the simple to the great things.</p></summary>
+<p style="display: inline-block"><span style="color: #9400d3;">If God created the commands of the universe...I want to understand that logic, from the simple to the great things.</span></p>
+  </details>
   </ul>
 </div>
 
@@ -18,7 +16,7 @@
 
 ### 👩‍💻 About Me:
 - 💻 I'm a web developer with a passion for UX/UI design.
-- ✍ In my free time, I'm an illustrator. You can check out my art on Instagram: [@luzzznocturnaaa](https://www.instagram.com/luzzznocturnaaa/).
+- ✍ In my free time, I'm an illustrator. You can check out my art on Behance: [@luzzznocturnaaa](https://www.behance.net/luzzznocturnaaa).
 - 🦹‍♀️ Aspiring to bridge the gap between technology and user experience by creating intuitive and aesthetically pleasing interfaces.
 
 
