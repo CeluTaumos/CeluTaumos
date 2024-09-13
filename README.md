@@ -19,6 +19,7 @@
 - 💻 I'm a web developer with a passion for UX/UI design.
 - ✍ In my free time, I'm an illustrator. You can check out my art on Behance: [@luzzznocturnaaa](https://www.behance.net/luzzznocturnaaa).
 - 🦹‍♀️ Aspiring to bridge the gap between technology and user experience by creating intuitive and aesthetically pleasing interfaces.
+- 🖖 I also have a portfolio-in-progress here: [Kind of Portfolio](https://celutaumos.github.io/kindOfPortolio/)
 
 
 
