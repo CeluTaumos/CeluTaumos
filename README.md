@@ -28,7 +28,7 @@
 
 ### 📫 How to reach me:
 <ul align="center">
-  <li>📧 <a href="mailto:celena.ark@gmail.com">celena.ark@gmail.com</a></li>
+  <li>📧 <a href="mailto:celutaumos@gmail.com">celena.ark@gmail.com</a></li>
   <li>🔗 <a href="https://www.linkedin.com/in/celena-moscovich-2a42a2251/">LinkedIn: Celena Moscovich</a></li>
 </ul>
 
